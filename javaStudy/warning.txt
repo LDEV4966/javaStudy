@@ -1,0 +1,4 @@
+3월 09, 2022 6:05:21 오후 exception.MyLogger warning
+WARNING: name must not be null
+3월 09, 2022 6:05:21 오후 exception.MyLogger warning
+WARNING: 이름이 너무 길어요
